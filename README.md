@@ -1,15 +1,13 @@
 
-## Installing Google Fonts:
+#googlefonts-install-scripts
 
-Easily install ALL of Google's Web Fonts on your Debian system.
+To install/update the fonts, just run the `install_debian.sh` script. It will overwrite duplicates.
 
-### Updating:
-
-To update the fonts, just re-run this script. It will overwrite duplicates.
+To uninstall, run `uninstall_debian.sh`.
 
 ### Credit
 
-Based on https://github.com/qrpike/Web-Font-Load by
+Based on https://github.com/qrpike/Web-Font-Load by:
 
-[Quinton Pike - @quintonpike](https://twitter.com/QuintonPike)
-[Peter Stacho - @stacho](https://twitter.com/stacho)
+- [Quinton Pike - @quintonpike](https://twitter.com/QuintonPike)
+- [Peter Stacho - @stacho](https://twitter.com/stacho)
